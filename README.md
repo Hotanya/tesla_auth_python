@@ -7,3 +7,16 @@ It generates a Bearer token and Refresh token to be used with the Tesla API. I c
 
 Unoffical Docs:
 https://tesla-api.timdorr.com/
+
+## Usage
+Clone repo:
+
+`git clone https://github.com/Hotanya/tesla_auth_python`
+
+install requirements:
+
+```python
+python3 -m venv venv-teslaauth
+source venv-teslaauth/bin/activate
+python3 teslaauth.py
+```
