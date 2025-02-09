@@ -13,10 +13,11 @@ Clone repo:
 
 `git clone https://github.com/Hotanya/tesla_auth_python`
 
-install requirements:
+Install requirements:
 
 ```python
 python3 -m venv venv-teslaauth
 source venv-teslaauth/bin/activate
+pip3 install -r requirements.py
 python3 teslaauth.py
 ```
